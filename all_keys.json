@@ -1,0 +1,98 @@
+{
+  "bizchat\\bizchat.db": {
+    "enc_key": "673993e7a2aeda3606600cf3fbfbf453d63f5509447dfe7ca19f45ef9487f84c",
+    "salt": "d357e82bbbe507bed88444f1061da56a",
+    "size_mb": 0.0
+  },
+  "contact\\contact.db": {
+    "enc_key": "abaed0b8d3dd7f841e85844081b09b5e1933158e2acdece9410e42fb6801a8c2",
+    "salt": "1b7504633c983405f6139423826a2b51",
+    "size_mb": 4.0
+  },
+  "contact\\contact_fts.db": {
+    "enc_key": "62104b8dc9b067af24c15ee080a4477f5e969045234cec6707c0e388144ffff4",
+    "salt": "8051f340f891e43fd393246f556c23c0",
+    "size_mb": 2.1
+  },
+  "emoticon\\emoticon.db": {
+    "enc_key": "fa465fcaf62dbe1144e8cf5c321133deaeaa0875754ab52a2618f503a6136e41",
+    "salt": "d97d81eb96f40ed88a980a00619fc8c7",
+    "size_mb": 0.3
+  },
+  "favorite\\favorite.db": {
+    "enc_key": "ba449df67683c99d0297ac64d3ba751341549b984e7a92aa85e22d92fdc3097b",
+    "salt": "446b056bf1e34abb48e42b1e3cb79bf3",
+    "size_mb": 0.1
+  },
+  "favorite\\favorite_fts.db": {
+    "enc_key": "342c65b9d82caaa58847a709262b2e1018df6e1def01fe95a8a3a066fd6fa8f8",
+    "salt": "a69c3163376a430988e450f718e8263d",
+    "size_mb": 0.0
+  },
+  "general\\general.db": {
+    "enc_key": "ec662c8d3798ad69bd6586dab09a0b8fa98f1bae2cdab1112cc02a5f3dfdb766",
+    "salt": "2d463041b6539a00a1c0d0c0f77ea305",
+    "size_mb": 0.9
+  },
+  "hardlink\\hardlink.db": {
+    "enc_key": "ca4b8f4816d245d0d7369245e6fb9cea8af67a3a6c41d0ffcff6b477f8fd7fbd",
+    "salt": "2ef4d65ea2728b21fd7106990f3b350b",
+    "size_mb": 1.5
+  },
+  "head_image\\head_image.db": {
+    "enc_key": "29dde3837c04f2db0aec6bc5b91739f24bc17438b992175af5d899eaaf360dce",
+    "salt": "305c6f29cf1a42eecffe7a6abd1e94e5",
+    "size_mb": 9.7
+  },
+  "message\\biz_message_0.db": {
+    "enc_key": "68a3aae39ee93e230fd5f9d5bc1a01f82de07ce5a4775fc509567eb4b8bfadf0",
+    "salt": "a98bf5e83bb8a4238a3c51850b612e0f",
+    "size_mb": 4.9
+  },
+  "message\\biz_message_1.db": {
+    "enc_key": "5975170b0bf3c68f2c230051b1b880ba09c21a87540c8cce21ae6d75bba6fe1c",
+    "salt": "fb902364f7674515f43addc88d3181a9",
+    "size_mb": 0.1
+  },
+  "message\\media_0.db": {
+    "enc_key": "5645efed9cf2b5ea36fd63758eb85d9a452dfb6dd6d79aae40b023cd21aa7d58",
+    "salt": "25eb919f8271494edfb49895a61854e7",
+    "size_mb": 5.5
+  },
+  "message\\message_0.db": {
+    "enc_key": "821bb6984e9b79d9edc4901a781e4b880575fef6b91abc72180a0be5adceaf3b",
+    "salt": "cc5b03c9748d1fc957bab76461e75a4c",
+    "size_mb": 94.4
+  },
+  "message\\message_1.db": {
+    "enc_key": "8c31e33f4ea1250f1f868c35c53b3fa4cffb646a313f8946310e27d4f34c93a0",
+    "salt": "163cef21e6a712beaad27edf7708292d",
+    "size_mb": 43.5
+  },
+  "message\\message_fts.db": {
+    "enc_key": "9533cb6393ecb475c12a52fa55355023bf77374c6030272375130ec006f51ebd",
+    "salt": "8eb8a79e9f5c45af02f2876b6726edcf",
+    "size_mb": 32.6
+  },
+  "message\\message_resource.db": {
+    "enc_key": "fd2f60ab938502c939c603550eeb3dca688ff2cae8fd9ab2128fdc2af1068c92",
+    "salt": "4b2a182bf1c2ef0ebbde5f690c93b8e5",
+    "size_mb": 6.6
+  },
+  "session\\session.db": {
+    "enc_key": "0413371be17b2027fa8a2d48e9d885af81d5396d908b459cd9f08196668e672b",
+    "salt": "87d85efe1c45e3f77edd1c240d183362",
+    "size_mb": 1.0
+  },
+  "sns\\sns.db": {
+    "enc_key": "16755c24093a257315718f589f0e683e8fb4ce9bf26ced141bc706ba33af1659",
+    "salt": "b63dcfca70a7f64ad2f5c140b01cef9f",
+    "size_mb": 21.4
+  },
+  "solitaire\\solitaire.db": {
+    "enc_key": "e902d8a54019bdad6b6ac1c72581e4805b59d3a1c22a5d7918f68f655529006b",
+    "salt": "a16481a62bbb2ce9ab3dd348186d38b0",
+    "size_mb": 0.1
+  },
+  "_db_dir": "C:\\Users\\elliott\\OneDrive - Duke University\\xwechat_files\\wxid_x65p4s0b531922_0d60\\db_storage"
+}
